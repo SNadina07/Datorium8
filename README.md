@@ -1,3 +1,3 @@
 # pirmā līmeņa virsraksts
-# otrā līmeņa virsraksts
-# mazaiz virsraksts
+## otrā līmeņa virsraksts
+###### mazākais virsraksts
